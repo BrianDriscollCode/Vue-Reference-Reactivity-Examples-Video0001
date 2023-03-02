@@ -1,29 +1,15 @@
-# ref-reactive
+# Ref and Reactive Tutorial Basics
 
-This template should help get you started developing with Vue 3 in Vite.
+This application is the code for the ref and reactive tutorial.
 
-## Recommended IDE Setup
+## Navigation
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
+App.vue serves as the navigation. To see the code for each example, go to the components. You will see the 4 examples:
 
-## Customize configuration
+1. refBasics
+2. refToggle
+3. reactiveData
+4. reactiveState
 
-See [Vite Configuration Reference](https://vitejs.dev/config/).
 
-## Project Setup
 
-```sh
-npm install
-```
-
-### Compile and Hot-Reload for Development
-
-```sh
-npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
